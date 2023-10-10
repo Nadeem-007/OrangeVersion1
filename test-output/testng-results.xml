@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-10T13:01:51 IST" name="Default suite" finished-at="2023-10-10T13:02:17 IST" duration-ms="25004">
+    <groups>
+    </groups>
+    <test started-at="2023-10-10T13:01:51 IST" name="Default test" finished-at="2023-10-10T13:02:17 IST" duration-ms="25004">
+      <class name="com.OrangeV1.testcases.TC_001_Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.OrangeV1.testcases.TC_001_Login@5fe94a96]" started-at="2023-10-10T13:01:52 IST" name="setup" finished-at="2023-10-10T13:01:57 IST" duration-ms="5847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginFucntionality()[pri:1, instance:com.OrangeV1.testcases.TC_001_Login@5fe94a96]" started-at="2023-10-10T13:01:57 IST" name="loginFucntionality" finished-at="2023-10-10T13:02:02 IST" duration-ms="5028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFucntionality -->
+        <test-method signature="userCreation()[pri:2, instance:com.OrangeV1.testcases.TC_001_Login@5fe94a96]" started-at="2023-10-10T13:02:02 IST" name="userCreation" finished-at="2023-10-10T13:02:16 IST" duration-ms="13574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userCreation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeV1.testcases.TC_001_Login@5fe94a96]" started-at="2023-10-10T13:02:16 IST" name="tearDown" finished-at="2023-10-10T13:02:17 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeV1.testcases.TC_001_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
